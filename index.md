@@ -1,4 +1,4 @@
-# My name is Robert Paulson [![](https://travis-ci.org/smaslennikov/devopscat.com.svg?branch=master)](https://travis-ci.org/smaslennikov/devopscat.com)
+# My name is Robert Paulson [![](https://travis-ci.com/smaslennikov/devopscat.com.svg?branch=master)](https://travis-ci.com/smaslennikov/devopscat.com)
 
 Best way to reach me is [email](mailto:me@devopscat.com?Subject=play%20with%20my%20tail%20please)
 
