@@ -4,9 +4,9 @@ https://keybase.io/smaslennikov
 
 I hereby claim:
 
-  * I am an admin of http://smaslennikov.com
+  * I am an admin of https://devopscat.com
   * I am smaslennikov (https://keybase.io/smaslennikov) on keybase.
-  * I have a public key ASDhM9VLe2Isn9L39d0_XSrWDkjZiZHnhypb950NTqBUYQo
+  * I have a public key with fingerprint EC02 2E73 D6B7 7BA9 6623  60EC 3FCF E3CC 4270 F3A7
 
 To do so, I am signing this object:
 
@@ -14,94 +14,56 @@ To do so, I am signing this object:
   "body": {
     "key": {
       "eldest_kid": "0120e133d54b7b622c9fd2f7f5dd3f5d2ad60e48d98991e7872a5bf79d0d4ea054610a",
+      "fingerprint": "ec022e73d6b77ba9662360ec3fcfe3cc4270f3a7",
       "host": "keybase.io",
-      "kid": "0120e133d54b7b622c9fd2f7f5dd3f5d2ad60e48d98991e7872a5bf79d0d4ea054610a",
+      "key_id": "3fcfe3cc4270f3a7",
+      "kid": "0101d592cddbd28886db0c9843a3bddf64b370ee70dac9ca8b68ab22b949621c71d70a",
       "uid": "810c3bf13e9f8bdeaadcca3cb9361d19",
       "username": "smaslennikov"
     },
-    "merkle_root": {
-      "ctime": 1533067583,
-      "hash": "e89c85ce743305448d00badc4a4e34e1ceb382f6e7aee044b5233d1eac27cf2b6624fec3b794c11b92c3445b05587ad1ae92ca584b640d41da54dee70161abe1",
-      "hash_meta": "b30af3cafc305978c588fde04e76e1ea2040984d55c38ccc33a87d364d3e809e",
-      "seqno": 3363237
-    },
     "service": {
-      "entropy": "Fw28/8rLMClBtUz0zoVnVPsi",
-      "hostname": "smaslennikov.com",
-      "protocol": "http:"
-    },
-    "type": "web_service_binding",
-    "version": 2
-  },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "2.3.0"
-  },
-  "ctime": 1533067590,
-  "expire_in": 504576000,
-  "prev": "3545550813663747f2d5ab3fd1df03ad678c4d7e8c0d387b6e2b151a644a05ed",
-  "seqno": 35,
-  "tag": "signature"
-}
-
-which yields the signature:
-
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg4TPVS3tiLJ/S9/XdP10q1g5I2YmR54cqW/edDU6gVGEKp3BheWxvYWTESpcCI8QgNUVVCBNmN0fy1as/0d8DrWeMTX6MDTh7bisVGmRKBe3EIFg6kr7HnaVEVNfJDOCB1WNNf1LqCaGK+OY8aPEOIfm6AgHCo3NpZ8RAYWRm7C1IbYgl5xCu4t6+TJVgNXvqQrVZYctDMls3A20l4zfmCaokT10OVDAhtPGUt5ZX80utirTtVvjCNlQABKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEILgWCSRjrBO2iAIFSodmqoeIlB1tuwd+R2rKCK7fKJiMo3RhZ80CAqd2ZXJzaW9uAQ==
-
-And finally, I am proving ownership of this host by posting or
-appending to this document.
-
-View my publicly-auditable identity here: https://keybase.io/smaslennikov
-
-==================================================================
-https://keybase.io/smaslennikov
---------------------------------------------------------------------
-
-I hereby claim:
-
-  * I am an admin of https://smaslennikov.com
-  * I am smaslennikov (https://keybase.io/smaslennikov) on keybase.
-  * I have a public key ASDdb4e-Jt9kqY2w_eEAbZBNcZiocG-YvrsnZ4ixA1SZSgo
-
-To do so, I am signing this object:
-
-{
-  "body": {
-    "key": {
-      "eldest_kid": "0120e133d54b7b622c9fd2f7f5dd3f5d2ad60e48d98991e7872a5bf79d0d4ea054610a",
-      "host": "keybase.io",
-      "kid": "0120dd6f87be26df64a98db0fde1006d904d7198a8706f98bebb276788b10354994a0a",
-      "uid": "810c3bf13e9f8bdeaadcca3cb9361d19",
-      "username": "smaslennikov"
-    },
-    "merkle_root": {
-      "ctime": 1610665793,
-      "hash": "37cdcedfd74a5f157c4bc08059f5906e6bd724ecab8726f02a9f104d10be11d488ff63be5182865dc46237744fa150bbd2219634c1fd3592a3c49db37932a0dd",
-      "hash_meta": "0558f81c56eeb1a72a05727283d6cf48343c749cda0241766b434f4e8be10d50",
-      "seqno": 18750862
-    },
-    "service": {
-      "entropy": "G4XpAavcAiPYhWvEWN45SSfO",
-      "hostname": "smaslennikov.com",
+      "hostname": "devopscat.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
-    "version": 2
+    "version": 1
   },
-  "client": {
-    "name": "keybase.io go client",
-    "version": "5.5.2"
-  },
-  "ctime": 1610665837,
-  "expire_in": 504576000,
-  "prev": "5f092d55b7be400ac7b474d1dd1cd28205aefbd5d1afbd30442f6d217b823c04",
-  "seqno": 92,
+  "ctime": 1644772412,
+  "expire_in": 157680000,
+  "prev": "d6b3a99caf171eae97ec46826b414638c435146ec2216efe06838ff319ac6964",
+  "seqno": 107,
   "tag": "signature"
 }
 
 which yields the signature:
 
-hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg3W+HvibfZKmNsP3hAG2QTXGYqHBvmL67J2eIsQNUmUoKp3BheWxvYWTESpcCXMQgXwktVbe+QArHtHTR3RzSggWu+9XRr70wRC9tIXuCPATEIFtEufZl13hj32a7PAcImAFoB4TgTbN1aDBmdclLSNddAgHCo3NpZ8RA3G4caIwmd2jTzNDWAaMfvgIqebzBNQB+cmSlQeR9IVJWYzqP+GxR2qY9JMYZt5A5/ccqkNprTi7Tc0A01oc0CahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIHJPzyA2sLCf+1yN8G9VDp4rrRszpsbE8zk2Y6WkE7eQo3RhZ80CAqd2ZXJzaW9uAQ==
+-----BEGIN PGP MESSAGE-----
+
+owFtUmlMVFcUHigQIKylWNqIlFcg2rK8bd5CDQgSsLU0GAStRod3lze8APOGmWFg
+HIi1WBBqDBSxkRDGho7SJQW1JdSlJDakGmjrQqrWagyLlihiaMRoWfoekX+9P+5y
+zvd95zsntyX0JUOgT5A8ll3WtXbEZ3gKGEDQ+hw3AVTkItLdRBlePnA5wnaHqUxB
+RDpBUjSJKYZBRhbwgKNpKMqIlnnZiBCjbbSEOBKzAhIFUaQwL/C0ZAQyLyISsVgi
+jSxHkRKRTMiKxYxtVpticWiyGJI0jXkGcYDngSRyHM1oOpCRoYwZCFmaJ2VG4jVi
+qWrXGZo5INlxqqJqMe1hWrb3P/gV3ySFjCINEQKIFgSBQ4CEosAyEgMQkjkWMDyJ
+MU8iCYpQEgAnSICmgciKHE1BnkL8su+qZTmBIiEDZIrBoiwAhCUJQSgxEIgMRyFK
+1IF2bLNIFVhD2yskezm2WJQy1UnUJRNaxqlArA9X7+YFCmGnarVDyZEK1QpNwGpT
+HSpUy7VUqcNhtafrVIfLqmOrMTC9UDEBxYK0YWoMJ7bZFdVCpFMaEjoUXZbiWJbn
+aZaikwlcY1Vs2KToCCPPCaS29DrYqZfnTICRRK13meIpLGGRx5DlBJoDLMVyjABZ
+xqhdMKRpisMyJjmBEWSZoUQJciLHEnpjlRZVEyd5zalk1ltXzBbJUWXDRF1wky/j
+Z/AJNMSuivfrOdHdmNJX+m1H2p3ulS/o76v/P0NwUMRKpCU4fKnIdb5zqbIwvObL
+3edf7lWibsSNN25/XnqOWvRXHy0FtC5mx3BNOJ8yLyx5Th3+y7t1Q0i8eXN9pNAS
+jGqrw7IvWXMO1R84Pfj7r60FNz8fNKZl+Xd6P+uf7U46EhL89M352mDP275Nz+Cj
+mD13XWMxF27tirpNXJn+PkgtihuY6DgZW8xfXbPp6X4y44fjXvXhqLl8/71dXVN1
+zXeO5p7wxJ65Hjk2nNXwRbdn786hiOi+05ZE+e/2qJ/ve5sq1mxr8sx89J7Rm9Hj
+bTuaP+2+f8sy3383Mqt4s6QmXv067d6xi1vanXNDp2pXza1+N3T7olh9cIPzl/j2
+wyX7wmZ/Ksg0d8aNHnir4Un12fJv/m1z/ZO/Z25ik/tYrmOBG4jKGwzyTiZcf782
+vwv0emAQ+UeEX2HjlqnjCWaUdeHm7Q8RUzz9HCjNfs2zPx7KGImc8A/JyS22ve7K
+d6crH7O/NR8I/yTmyN6C8e9sq3efe3w5cR09P/lBD38peRykVk4cPCP8OdOcd/Hy
+cNl4r7izZi26pvaZSuLrklLq11fmWUbq3UnDAwvoSWSHc6MwVFDUFr51su+1a1JJ
+pr2hbWTg0407UtyVr2YNFN6IHsuOTp557H3W8nBH2BsFvYNVrXL/4pLYNkrtSwiY
+zPSGGhblrwJObht8p/uB6wodwflkVJ19UPRK4Lr/AA==
+=qqRv
+-----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
 appending to this document.
