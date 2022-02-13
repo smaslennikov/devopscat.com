@@ -1,4 +1,0 @@
-- include: debian-tasks.yml
-  when: ansible_distribution == "Ubuntu"
-- include: centos-tasks.yml
-  when: ansible_distribution == "CentOS"

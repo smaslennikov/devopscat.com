@@ -1,8 +1,8 @@
-# I am Slava [![](https://travis-ci.org/smaslennikov/smaslennikov.github.io.svg?branch=master)](https://travis-ci.org/smaslennikov/smaslennikov.github.io)
+# My name is Robert Paulson [![](https://travis-ci.org/smaslennikov/devopscat.com.svg?branch=master)](https://travis-ci.org/smaslennikov/devopscat.com)
 
-Best way to reach me is [email](mailto:me@smaslennikov.com?Subject=beer%20time)
+Best way to reach me is [email](mailto:me@devopscat.com?Subject=play%20with%20my%20tail%20please)
 
-Pizza donations are always welcome
+Fish donations are always welcome
 
 Here's my [resume](docs/resume.pdf)
 
@@ -14,7 +14,7 @@ Here's my [resume](docs/resume.pdf)
 * I define frequent commands as [`make` target](https://github.com/smaslennikov/include.mk) includes
 * A recent [GnuPG](https://github.com/smaslennikov/packages) version packaged for CentOS and Debian
 * Not that great of a script for [migrating off PostgreSQL BDR](https://github.com/smaslennikov/smaslennikov.github.io/blob/master/bin/migrate_bdr_to_postgres.sh)
-* A [devops clock](https://smaslennikov.com/whattimeisitrightmeow/), and [another](https://smaslennikov.com/whattravisisitrightmeow/)
+* A [devops clock](https://devopscat.com/whattimeisitrightmeow/), and [another](https://devopscat.com/whattravisisitrightmeow/)
 * Some [haikus and rhymes](haikus)
 * [Beer and kombucha labels](beers)
 * My ongoing [book list](books)
@@ -60,7 +60,7 @@ Here's my [resume](docs/resume.pdf)
 
 ## Presentations
 
-* Another presentation [about secret storage](https://smaslennikov.com/sada-beer-and-learn-1/) given at SADA
+* Another presentation [about secret storage](https://devopscat.com/sada-beer-and-learn-1/) given at SADA
 * Grindr birthed
     * a presentation [about secret storage](grindr-demo-day-1) as well as
     * one about a [failed POC of GoCD](grindr-demo-day-2)
