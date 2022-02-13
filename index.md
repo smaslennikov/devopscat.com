@@ -19,6 +19,7 @@ Here's my [resume](docs/resume.pdf)
 * [Beer and kombucha labels](beers)
 * My ongoing [book list](books)
 * In emergency, [break open](in_emergency)
+* My [selfies](selfies)
 
 ## Opinions
 
