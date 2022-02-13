@@ -3,7 +3,7 @@ type: posts
 tag: opinion
 layout: post
 title: "Innovation and Dependence"
-author: "Svyatoslav I. Maslennikov"
+author: "Robert Paulson"
 ---
 
 Today's innovations and progress swoop humanity into a neat cycle of anticipation and acquisition through deceptive notions that guide it to dependence. We're sold on products and ideas through questionable but politically acceptable marketing tactics. We buy, pre-order, take out loans, only to supposedly upgrade later to a somehow inferior product.

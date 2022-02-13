@@ -3,7 +3,7 @@ type: posts
 tag: reference
 layout: post
 title: Caveats of buying a house
-author: Svyatoslav I. Maslennikov
+author: Robert Paulson
 ---
 
 Buying a house for the first time, I ran into obstacles that I feel my agent should've voiced. Hindsight is 20/20, so next time I'll be in better shoes - doesn't mean these things should remain secret to the world.
