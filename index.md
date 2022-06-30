@@ -14,12 +14,12 @@ Here's my [resume](docs/resume.pdf)
 * I define frequent commands as [`make` target](https://github.com/smaslennikov/include.mk) includes
 * A recent [GnuPG](https://github.com/smaslennikov/packages) version packaged for CentOS and Debian
 * Not that great of a script for [migrating off PostgreSQL BDR](https://github.com/smaslennikov/smaslennikov.github.io/blob/master/bin/migrate_bdr_to_postgres.sh)
-* A [devops clock](https://devopscat.com/whattimeisitrightmeow/), and [another](https://devopscat.com/whattravisisitrightmeow/)
+* A [devops clock](https://slava.lol/whattimeisitrightmeow/), and [another](https://slava.lol/whattravisisitrightmeow/)
 * Some [haikus and rhymes](haikus)
 * [Beer and kombucha labels](beers)
 * My ongoing [book list](books)
 * In emergency, [break open](in_emergency)
-* My [father's website](https://smaslennikov.com)
+* My [father's website](https://slava.lol)
 * My [selfies](selfies)
 
 ## Opinions
@@ -62,11 +62,11 @@ Here's my [resume](docs/resume.pdf)
 
 ## Presentations
 
-* Another presentation [about secret storage](https://devopscat.com/sada-beer-and-learn-1/) given at SADA
+* Another presentation [about secret storage](https://slava.lol/sada-beer-and-learn-1/) given at SADA
 * Grindr birthed
-    * a presentation [about secret storage](grindr-demo-day-1) as well as
-    * one about a [failed POC of GoCD](grindr-demo-day-2)
-* At `NordstromRack.com|Hautelook` I produced [a presentation on a few CISSP chapters](cissp-access-mgmt-presentation/) with a partner
+    * a presentation [about secret storage](https://slava.lol/grindr-demo-day-1) as well as
+    * one about a [failed POC of GoCD](https://slava.lol/grindr-demo-day-2)
+* At `NordstromRack.com|Hautelook` I produced [a presentation on a few CISSP chapters](https://slava.lol/cissp-access-mgmt-presentation/) with a partner
     * though it's not as useful without our [notes](https://github.com/smaslennikov/cissp-access-mgmt-presentation/blob/master/presentation.md)
 
 ## [Folks](https://github.com/smaslennikov/smaslennikov.github.io/blob/master/ansible/roles/dotfiles/files/.newsboat/urls)
