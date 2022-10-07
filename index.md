@@ -21,6 +21,7 @@ Here's my [resume](docs/resume.pdf)
 * In emergency, [break open](in_emergency)
 * My [father's website](https://slava.lol)
 * My [selfies](selfies)
+* I posed for [my father's app logo](https://play.google.com/store/apps/details?id=lol.slava.civicstest)
 
 ## Opinions
 
